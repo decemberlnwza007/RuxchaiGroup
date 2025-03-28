@@ -33,6 +33,7 @@ const typed = new Typed("#typed-output", {
   typeSpeed: 80,
   backSpeed: 30,
   loop: false,
+  showCursor: false,
 });
 
 function createSnowAndObjects() {
