@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 const typed = new Typed("#typed-output", {
-  strings: ["Standard."],
+  strings: ["Society."],
   typeSpeed: 80,
   backSpeed: 30,
   loop: false,
